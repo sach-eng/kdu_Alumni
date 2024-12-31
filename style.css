@@ -1,0 +1,13 @@
+.topic {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  .email-address {
+    margin: 0 15px; /* Adjust spacing as needed */
+    font-weight: bold;
+    color: #333; /* Adjust color as needed */
+  }
